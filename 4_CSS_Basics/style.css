@@ -1,0 +1,23 @@
+body {
+    background-color: #B8CCBD;
+    font-family: 'Source Code Pro', monospace;
+    color: #3B3F3F;
+
+}
+
+#green {
+    color: #246655;
+}
+
+.container {
+    background-color: #32BAA3;
+}
+
+.container2 {
+    background-color: #32BAA3;
+    border: 5px solid #DB4F76;
+}
+
+.border {
+    border: 5px dashed #DB4F76;
+}
